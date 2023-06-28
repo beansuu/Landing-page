@@ -7,6 +7,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    color: #1f2937;
 }
 
 /* HEADER */
@@ -123,6 +124,12 @@ main h2 {
     border-radius: 20px;
     width: 160px;
     height: 160px;
+}
+
+p {
+    font-weight: bolder;
+    font-size: 24px;
+    color: #1f2937;
 }
 
 /* QUOTE */
